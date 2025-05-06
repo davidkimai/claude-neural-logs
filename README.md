@@ -1,6 +1,6 @@
 # `Claude Neural Logs`
 > ### Bayesian/Dynamic/Adaptive = Recursive
-> > ### As much as we appreciate and respect mechanistic interpretability,
+> > ### As much as we respect and appreciate mechanistic interpretability,
 > > > ### (It seeded the entire field, we wouldn't be here without it)
 > > > > ### We recognize there is always room for adaptive growth in a dynamically scaling industry 
 
