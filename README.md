@@ -2,7 +2,7 @@
 > ### Bayesian/Dynamic/Adaptive = Recursive
 > > ### As much as we appreciate and respect mechanistic interpretability,
 > > > ### (It seeded the entire field, we wouldn't be here without it)
-> > > > ### We recognize there is always rooms for recursive improvement in a dynamically scaling industry 
+> > > > ### We recognize there is always room for adaptive growth in a dynamically scaling industry 
 
 <img width="889" alt="image" src="https://github.com/user-attachments/assets/a86ad963-4474-4b9a-a659-8e0f729d5854" />
 
