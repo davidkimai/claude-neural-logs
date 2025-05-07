@@ -1,4 +1,4 @@
-# `Claude Neural Logs`
+# `Claude Runtime Logs`
 > ### Bayesian/Dynamic/Probabilistic/Nondeterministic/Nonlinear/Adaptive = Recursive
 > > ### As much as we respect and appreciate mechanistic interpretability,
 > > > ### (It seeded the entire field, we wouldn't be here without it)
