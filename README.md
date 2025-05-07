@@ -1,5 +1,5 @@
 # `Claude Neural Logs`
-> ### Bayesian/Dynamic/Probablistic/Nondeterministic/Nonlinear/Adaptive = Recursive
+> ### Bayesian/Dynamic/Probabilistic/Nondeterministic/Nonlinear/Adaptive = Recursive
 > > ### As much as we respect and appreciate mechanistic interpretability,
 > > > ### (It seeded the entire field, we wouldn't be here without it)
 > > > > ### We recognize there is always room for adaptive growth in a dynamically scaling industry 
